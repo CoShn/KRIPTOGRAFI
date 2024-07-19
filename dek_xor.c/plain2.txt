@@ -1,0 +1,4 @@
+Ini adalah contoh teks yang akan dienkripsi menggunakan algoritma XOR.
+Teks ini bisa berisi berbagai macam karakter, termasuk huruf, angka, dan tanda baca.
+Enkripsi akan menggunakan kunci tertentu yang dimasukkan oleh pengguna.
+Hasil enkripsi akan disimpan dalam berkas chiper.txt.
